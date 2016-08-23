@@ -1,0 +1,19 @@
+commit 3537071727ea1a597d7e29015b1949f3f86e7724
+Author: wangqchf <wangqchf@yonyou.com>
+Date:   Tue Aug 23 20:45:45 2016 +0800
+
+    utf-8能显示这样的文字吗，我去类
+
+commit 91b4860618480d17b8673353d6b36a1ede931f5e
+Author: wangqchf <wangqchf@yonyou.com>
+Date:   Tue Aug 23 20:33:38 2016 +0800
+
+    什么情况这啊？？？？？都是啥啊！！！
+    
+    我的天！！！
+
+commit d16db54e5baaa346b5390d77ff9a2cd963c0f0f7
+Author: wangqchf <wangqchf@yonyou.com>
+Date:   Tue Aug 23 20:16:24 2016 +0800
+
+    输入点中文的提交信息
